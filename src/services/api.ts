@@ -5,6 +5,6 @@ export const api = axios.create({
     // baseURL: 'http://localhost:3000/api',
     
     //In production ambient
-    baseURL: 'https://dtmoney-caster.netlify.app//api',
+    baseURL: 'https://dtmoney-caster.netlify.app/api',
 
 })
